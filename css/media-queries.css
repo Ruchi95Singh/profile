@@ -330,6 +330,8 @@
    /* social links */
    footer .social-links { font-size: 22px; }
    footer .social-links li { margin-left: 18px; }
+	#contact input.submit{
+	margin-left:0px;}
 
    /* Go To Top Button */
    #go-top { margin-left: -22px; }
