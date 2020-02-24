@@ -450,6 +450,7 @@ ul#nav li.current a { color: #F06000; }
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
+   margin-bottom: 20px;
    overflow: hidden;
    position: relative;
 
